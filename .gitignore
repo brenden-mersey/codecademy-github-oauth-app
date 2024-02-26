@@ -1,0 +1,11 @@
+.env
+
+# Nova IDE
+.nova/
+
+# ignore node/grunt dependency directories
+node_modules/
+
+# Ignore build directories.
+build/
+dist/
